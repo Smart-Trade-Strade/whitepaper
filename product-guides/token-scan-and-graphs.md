@@ -1,2 +1,2 @@
-# Token Scan & Graphs
+# 🔀 Token Scan & Graphs
 

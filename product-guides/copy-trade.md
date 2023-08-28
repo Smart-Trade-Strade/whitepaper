@@ -1,2 +1,2 @@
-# Copy Trade
+# 🔄 Copy Trade
 
