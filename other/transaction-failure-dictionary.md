@@ -1,0 +1,2 @@
+# Transaction Failure Dictionary
+
