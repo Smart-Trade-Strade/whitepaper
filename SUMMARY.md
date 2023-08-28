@@ -26,8 +26,8 @@
 
 * [Multi-wallet Swaps](concept/multi-wallet-swaps.md)
 * [Private Transactions](concept/private-transactions.md)
-* [Fail Guard](concept/fail-guard.md)
-* [Security](concept/security.md)
+* [🚧 Fail Guard](concept/fail-guard.md)
+* [🔑 Security](concept/security.md)
 
 ## Tools
 
