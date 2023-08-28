@@ -16,20 +16,16 @@ The STRADE token is deployed on the Binance Smart Chain network at:&#x20;
 
 <summary>What are the tokenomics of STRADE?</summary>
 
-
-
-| Description                | STRADE token |
-| -------------------------- | ------------ |
-| Presale                    | 28,26%       |
-| Liquidity                  | 10,73%       |
-| Cex Listing 1              | 5%           |
-| Ecosystem Development      | 5%           |
-| Development NFT STRADE     | 15%          |
-| Copy Trade Platform        | 14%          |
-| Plataform Staking and Swap | 14%          |
-| Marketing plans            | 8%           |
-| Team                       | 2%           |
-| Partnerships               | 2%           |
+28,26% - Presale \
+10,73% - Liquidity\
+15,00% - Development NFT\`s STRADE\
+15,00% - Platform Staking and Swap \
+14,00% - Platform Copy Trade\
+12,00% - Ecosystem Development \
+08,00% - Cex Listing 1 \
+04,00% - Marketing \
+02,00% - Team and Partnerships\
+&#x20;
 
 </details>
 
@@ -50,5 +46,13 @@ Transparency is the cornerstone of Smart Trader. Regular external audits by repu
 #### SAFU    - Coinsult&#x20;
 
 The SAFU seal represents our commitment to protecting your assets. We've established a dedicated fund to cover unforeseen events, offering an additional layer of security for your investments. This proactive measure assures you that even in extreme scenarios, your assets remain safeguarded.
+
+</details>
+
+<details>
+
+<summary>How to buy Smart Trade ?</summary>
+
+[-> Click Here <-](https://www.pinksale.finance/?chain=BSC)
 
 </details>

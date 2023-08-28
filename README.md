@@ -10,6 +10,8 @@ description: 'Introducing the Smart Trader Whitepaper: Empowering Your Trading J
 
 <figure><img src=".gitbook/assets/smartlogo (2).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 #### New to Smart Trader?&#x20;
 
 Embark on your trading journey within minutes by referring to our New User Guide, tailor-made to assist [first-time users](group-1/first-time-user.md) in navigating the platform effortlessly.

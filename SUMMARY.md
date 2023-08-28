@@ -5,9 +5,8 @@
 ## faq
 
 * [🪙 STRADE Token](faq/strade-token.md)
-* [Revenue Sharing](faq/revenue-sharing.md)
-* [Using STRADE](faq/using-strade.md)
-* [Community](faq/community.md)
+* [🤖 Using STRADE](faq/using-strade.md)
+* [🏘 Community](faq/community.md)
 
 ## Group 1
 
