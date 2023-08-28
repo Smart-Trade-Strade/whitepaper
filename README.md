@@ -2,7 +2,7 @@
 description: 'Introducing the Smart Trader Whitepaper: Empowering Your Trading Journey'
 ---
 
-# 📟 Welcome to Smart Trade
+# 🤖 Welcome to Smart Trade
 
 {% hint style="info" %}
 📟 This whitepaper outlines the Smart Trader project's fundamental concepts, proposed features, and objectives. It offers a comprehensive overview of the project's integrated trading solutions, designed to enhance your trading portfolio and strategies.
@@ -14,7 +14,7 @@ description: 'Introducing the Smart Trader Whitepaper: Empowering Your Trading J
 
 #### New to Smart Trader?&#x20;
 
-Embark on your trading journey within minutes by referring to our New User Guide, tailor-made to assist [first-time users](group-1/first-time-user.md) in navigating the platform effortlessly.
+Embark on your trading journey within minutes by referring to our New User Guide, tailor-made to assist [first-time users](product-guides/first-time-user.md) in navigating the platform effortlessly.
 
 #### Project Overview:&#x20;
 
