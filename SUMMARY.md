@@ -10,7 +10,7 @@
 
 ## Group 1
 
-* [First-Time User](group-1/first-time-user.md)
+* [☀ First-Time User](group-1/first-time-user.md)
 * [Buy Tokens](group-1/buy-tokens.md)
 * [Sell Tokens](group-1/sell-tokens.md)
 * [Limit Buy Orders](group-1/limit-buy-orders.md)
@@ -33,7 +33,7 @@
 
 * [Token Value Monitor](tools/token-value-monitor.md)
 * [Link Wallet For Holder Benefits](tools/link-wallet-for-holder-benefits.md)
-* [Referrals Program](tools/referrals-program.md)
+* [💫 Referrals Program](tools/referrals-program.md)
 
 ## other
 
