@@ -24,7 +24,8 @@
 ## platform
 
 * [💫 Multi-wallet Swaps](platform/multi-wallet-swaps.md)
-* [💰 Platform Staking](platform/platform-staking.md)
+* [💰 Platform Staking](platform/platform-staking/README.md)
+  * [💲 Staking](platform/platform-staking/staking.md)
 * [🚧 Fail Guard](platform/fail-guard.md)
 
 ## utilities

@@ -4,7 +4,7 @@ description: Coming soon
 
 # 💰 Platform Staking
 
-<figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 **Platform Staking: Unlocking Rewards Through Participation**
 
