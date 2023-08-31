@@ -14,7 +14,7 @@ description: 'Introducing the Smart Trader Whitepaper: Empowering Your Trading J
 
 #### New to Smart Trader?&#x20;
 
-Embark on your trading journey within minutes by referring to our New User Guide, tailor-made to assist [first-time users](product-guides/first-time-user.md) in navigating the platform effortlessly.
+Embark on your trading journey within minutes by referring to our New User Guide, tailor-made to assist [first-time users](tools/first-time-user.md) in navigating the platform effortlessly.
 
 #### Project Overview:&#x20;
 
