@@ -1,4 +1,4 @@
-# 🪙 STRADE Token
+# 🪙 Smart Trade-BOT  Token
 
 <figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -6,19 +6,19 @@
 
 <details>
 
-<summary>What is the token address of STRADE?</summary>
+<summary>What is the token address of Smart Trade-BOT?</summary>
 
-The STRADE token is deployed on the Binance Smart Chain network at:&#x20;
+The Smart Trade-BOT token is deployed on the Binance Smart Chain network at:&#x20;
 
 </details>
 
 <details>
 
-<summary>What are the tokenomics of STRADE?</summary>
+<summary>What are the tokenomics of Smart Trade-BOT?</summary>
 
 28,26% - Presale \
 10,73% - Liquidity\
-15,00% - Development NFT\`s STRADE\
+15,00% - Development NFT\`s Smart Trade-BOT\
 13,00% - Platform Staking and Swap \
 10,00% - Platform Copy Trade\
 08,00% - Ecosystem Development \
@@ -31,7 +31,7 @@ The STRADE token is deployed on the Binance Smart Chain network at:&#x20;
 
 <details>
 
-<summary>What are the security of STRADE?</summary>
+<summary>What are the security of Smart Trade-BOT?</summary>
 
 In the realm of financial innovation, ensuring the security of your investment is paramount. That's why we've integrated three essential pillars to fortify your confidence in Smart Trader: KYC (Know Your Customer), Audit, and SAFU (Secure Asset Fund for Users) seals.
 

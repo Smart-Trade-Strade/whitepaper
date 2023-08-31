@@ -4,8 +4,8 @@
 
 ## overview
 
-* [🪙 STRADE Token](overview/strade-token.md)
-* [🕹 Using STRADE](overview/using-strade.md)
+* [🪙 Smart Trade-BOT  Token](overview/smart-trade-bot-token.md)
+* [🕹 Using Smart Trade-BOT](overview/using-smart-trade-bot.md)
 * [🌐 Community](overview/community.md)
 * [👮 Security](overview/security.md)
 

@@ -1,4 +1,4 @@
-# 🕹 Using STRADE
+# 🕹 Using Smart Trade-BOT
 
 <figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -10,7 +10,7 @@
 
 \->Transactions through the Smart Trade platform incur a default fee of 0.5%.
 
-\-> If you possess a minimum of 18 Smart Trade tokens (STRADE) and have linked your wallet to the platform, you will benefit from a 15% fee reduction.&#x20;
+\-> If you possess a minimum of 18 Smart Trade tokens (Smart Trade-BOT) and have linked your wallet to the platform, you will benefit from a 15% fee reduction.&#x20;
 
 \-> If your initial interaction with Smart Trade occurred via a referral link, an additional fee discount of 11% will be applied.
 
