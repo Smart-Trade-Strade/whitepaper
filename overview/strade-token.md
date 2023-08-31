@@ -19,12 +19,12 @@ The STRADE token is deployed on the Binance Smart Chain network at:&#x20;
 28,26% - Presale \
 10,73% - Liquidity\
 15,00% - Development NFT\`s STRADE\
-15,00% - Platform Staking and Swap \
-14,00% - Platform Copy Trade\
-12,00% - Ecosystem Development \
+13,00% - Platform Staking and Swap \
+10,00% - Platform Copy Trade\
+08,00% - Ecosystem Development \
 08,00% - Cex Listing 1 \
 04,00% - Marketing \
-02,00% - Team and Partnerships\
+03,00% - Team and Partnerships\
 &#x20;
 
 </details>
