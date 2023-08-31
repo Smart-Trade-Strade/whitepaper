@@ -1,6 +1,6 @@
 # 1⃣ First-Time User
 
-<figure><img src="../.gitbook/assets/smartlogo (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/covergitbook.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

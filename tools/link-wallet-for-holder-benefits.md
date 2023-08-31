@@ -1,3 +1,7 @@
+---
+description: Coming soon
+---
+
 # ⛓ Link Wallet For Holder Benefits
 
 
