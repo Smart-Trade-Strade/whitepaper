@@ -2,11 +2,12 @@
 
 * [🤖 Welcome to Smart Trade](README.md)
 
-## faq
+## overview
 
-* [🪙 STRADE Token](faq/strade-token.md)
-* [🕹 Using STRADE](faq/using-strade.md)
-* [🌐 Community](faq/community.md)
+* [🪙 STRADE Token](overview/strade-token.md)
+* [🕹 Using STRADE](overview/using-strade.md)
+* [🌐 Community](overview/community.md)
+* [👮 Security](overview/security.md)
 
 ## Product guides
 
@@ -27,7 +28,6 @@
 * [Multi-wallet Swaps](concept/multi-wallet-swaps.md)
 * [Private Transactions](concept/private-transactions.md)
 * [🚧 Fail Guard](concept/fail-guard.md)
-* [👮 Security](concept/security.md)
 
 ## Tools
 
