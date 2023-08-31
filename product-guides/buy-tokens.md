@@ -1,6 +1,6 @@
 # ⏫ Buy Tokens
 
-<figure><img src="../.gitbook/assets/covergitbook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

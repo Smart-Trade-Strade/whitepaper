@@ -8,7 +8,7 @@ description: 'Introducing the Smart Trader Whitepaper: Empowering Your Trading J
 📟 This whitepaper outlines the Smart Trader project's fundamental concepts, proposed features, and objectives. It offers a comprehensive overview of the project's integrated trading solutions, designed to enhance your trading portfolio and strategies.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/covergitbook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

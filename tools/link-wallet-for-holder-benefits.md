@@ -4,9 +4,7 @@ description: Coming soon
 
 # ⛓ Link Wallet For Holder Benefits
 
-
-
-<figure><img src="../.gitbook/assets/smartlogo (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

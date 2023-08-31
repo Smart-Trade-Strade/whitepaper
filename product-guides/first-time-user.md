@@ -1,10 +1,8 @@
 # 1⃣ First-Time User
 
-<figure><img src="../.gitbook/assets/covergitbook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
-
-
 
 <details>
 

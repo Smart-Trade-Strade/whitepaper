@@ -4,11 +4,11 @@ description: Coming soon
 
 # 💰 Platform Staking
 
-<figure><img src="../.gitbook/assets/covergitbook.png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
 **Platform Staking: Unlocking Rewards Through Participation**
+
+***
 
 Smart Trade introduces the transformative concept of Platform Staking, a feature designed to empower users to actively engage with the platform and earn rewards by staking their cryptocurrency holdings. Platform Staking offers users the opportunity to contribute to the platform's ecosystem while reaping the benefits of a passive income stream.
 
