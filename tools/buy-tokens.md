@@ -47,6 +47,6 @@ If you wish to have greater control over your slippage settings, you can conside
 * **Pending Notification:** A notification will appear in the top-right corner of your screen once the transaction is broadcast.
 * **Success Notification:** A notification will also be displayed when the transaction is successfully included in the Binance Smart Chain network.
 
-Remember that adjusting any of the Buy Settings will automatically trigger a re-simulation of the transaction. This comprehensive system allows you to fine-tune your trading experience within the Smart Trade Telegram Bot for optimal results.
+Remember that adjusting any of the Buy Settings will automatically trigger a re-simulation of the transaction. This comprehensive system allows you to fine-tune your trading experience within the Smart Trade-BOT Telegram Bot for optimal results.
 
 </details>
