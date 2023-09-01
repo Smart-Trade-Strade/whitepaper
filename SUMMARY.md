@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🤖 Welcome to Smart Trade](README.md)
+* [🤖 Welcome to Smart Trade-BOT](README.md)
 
 ## overview
 
-* [🪙 Smart Trade-BOT  Token](overview/smart-trade-bot-token.md)
+* [🪙 Smart-BOT Token](overview/smart-bot-token.md)
 * [🕹 Using Smart Trade-BOT](overview/using-smart-trade-bot.md)
 * [🌐 Community](overview/community.md)
 * [👮 Security](overview/security.md)

@@ -1,4 +1,4 @@
-# 🪙 Smart Trade-BOT  Token
+# 🪙 Smart-BOT Token
 
 <figure><img src="../.gitbook/assets/covergitbook (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -6,19 +6,19 @@
 
 <details>
 
-<summary>What is the token address of Smart Trade-BOT?</summary>
+<summary>What is the token address of Smart-BOT?</summary>
 
-The Smart Trade-BOT token is deployed on the Binance Smart Chain network at:&#x20;
+The Smart-BOT token is deployed on the Binance Smart Chain network at:&#x20;
 
 </details>
 
 <details>
 
-<summary>What are the tokenomics of Smart Trade-BOT?</summary>
+<summary>What are the tokenomics of Smart-BOT?</summary>
 
 28,26% - Presale \
 10,73% - Liquidity\
-15,00% - Development NFT\`s Smart Trade-BOT\
+15,00% - Development NFT\`s Smart-BOT\
 13,00% - Platform Staking and Swap \
 10,00% - Platform Copy Trade\
 08,00% - Ecosystem Development \
@@ -31,9 +31,9 @@ The Smart Trade-BOT token is deployed on the Binance Smart Chain network at:&#x2
 
 <details>
 
-<summary>What are the security of Smart Trade-BOT?</summary>
+<summary>What are the security of Smart-BOT?</summary>
 
-In the realm of financial innovation, ensuring the security of your investment is paramount. That's why we've integrated three essential pillars to fortify your confidence in Smart Trader: KYC (Know Your Customer), Audit, and SAFU (Secure Asset Fund for Users) seals.
+In the realm of financial innovation, ensuring the security of your investment is paramount. That's why we've integrated three essential pillars to fortify your confidence in Smart Trade-BOT: KYC (Know Your Customer), Audit, and SAFU (Secure Asset Fund for Users) seals.
 
 #### KYC - Pinksale&#x20;
 
@@ -41,7 +41,7 @@ KYC is not just a regulatory requirement; it's a shield against potential risks.
 
 #### Audit - CyberScope
 
-Transparency is the cornerstone of Smart Trader. Regular external audits by reputable firms validate the reliability of our platform's functionality, security measures, and smart contracts. These audits provide an unbiased assessment, assuring you that our operations align with the highest standards and best practices.
+Transparency is the cornerstone of Smart Trade-BOT. Regular external audits by reputable firms validate the reliability of our platform's functionality, security measures, and smart contracts. These audits provide an unbiased assessment, assuring you that our operations align with the highest standards and best practices.
 
 #### SAFU    - Coinsult&#x20;
 
@@ -51,7 +51,7 @@ The SAFU seal represents our commitment to protecting your assets. We've establi
 
 <details>
 
-<summary>How to buy Smart Trade ?</summary>
+<summary>How to buy Smart Trade-BOT?</summary>
 
 [-> Click Here <-](https://www.pinksale.finance/?chain=BSC)
 
