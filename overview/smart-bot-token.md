@@ -16,15 +16,15 @@ The Smart-BOT token is deployed on the Binance Smart Chain network at:&#x20;
 
 <summary>What are the tokenomics of Smart-BOT?</summary>
 
-28,26% - Presale \
-10,73% - Liquidity\
+28,00% - Presale \
+13,56% - Liquidity\
 15,00% - Development NFT\`s Smart-BOT\
 13,00% - Platform Staking and Swap \
 10,00% - Platform Copy Trade\
 08,00% - Ecosystem Development \
 08,00% - Cex Listing 1 \
 04,00% - Marketing \
-03,00% - Team and Partnerships\
+00,42% - Aidrop\
 &#x20;
 
 </details>
