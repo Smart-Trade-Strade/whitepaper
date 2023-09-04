@@ -25,6 +25,7 @@ The Smart-BOT token is deployed on the Binance Smart Chain network at:&#x20;
 08,00% - Cex Listing 1 \
 04,00% - Marketing and Partneships \
 00,42% - Aidrop\
+05,07% - Burnt\
 &#x20;
 
 </details>
