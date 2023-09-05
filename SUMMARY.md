@@ -17,7 +17,7 @@
 * [⏺ Method Sniper](tools/method-sniper.md)
 * [↔ NFT\`s and Metaverse](tools/nft-s-and-metaverse.md)
 * [🈁 Mint NFT\`s](tools/mint-nft-s/README.md)
-  * [▶ Collection of NFT\`s Opensea](tools/mint-nft-s/collection-of-nft-s-opensea.md)
+  * [Opensea](https://opensea.io/Smart-Trade-BOT)
 * [↕ Watchlist](tools/watchlist.md)
 * [#⃣ Scanners](tools/scanners.md)
 * [🔀 Token Scan & Graphs](tools/token-scan-and-graphs.md)
