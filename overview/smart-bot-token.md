@@ -10,6 +10,8 @@
 
 The Smart-BOT token is deployed on the Binance Smart Chain network at:&#x20;
 
+0xB2CD463aA00e0A86936df1C3E64fEEc6128388Bc
+
 </details>
 
 <details>
@@ -39,6 +41,8 @@ In the realm of financial innovation, ensuring the security of your investment i
 #### KYC - Pinksale&#x20;
 
 KYC is not just a regulatory requirement; it's a shield against potential risks. By verifying the identities of our users, we create a trustworthy environment that safeguards against fraudulent activities. This process not only protects you but also contributes to a community built on transparency and integrity.
+
+[https://pinksale.notion.site/Smart-Trade-BOT-KYC-Verification-507bb93e01a245298a0ac3ceefaeee42?pvs=4](https://pinksale.notion.site/Smart-Trade-BOT-KYC-Verification-507bb93e01a245298a0ac3ceefaeee42?pvs=4)
 
 #### Audit - Coinsult  <a href="#https-coinsult.net-projects-smart-bot" id="https-coinsult.net-projects-smart-bot"></a>
 
